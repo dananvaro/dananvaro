@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Danan!</h1>
-<h3 align="center">Master student at Oslomet, studying Applied Computer and Information Technology</h3>
+<h1 align="left">Hi 👋, I'm Danan!</h1>
+<h3 align="left">Master student at Oslomet, studying Applied Computer and Information Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dananvaro&label=Profile%20views&color=0e75b6&style=flat" alt="dananvaro" /> </p>
 
