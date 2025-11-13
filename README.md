@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Final Assignment ACIT4420](github.com/dananvaro/Final-Assignment-ACIT4420)
 
-- 📄 Know about my experiences [cv-danan-subramaniam.tiiny.site/](cv-danan-subramaniam.tiiny.site/)
+
 
 - ⚡ Fun fact **I love chocolate milk**
 
