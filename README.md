@@ -23,6 +23,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+  <a href="https://github.com/dananvaro" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="dananvaro on GitHub" height="30" width="40" />
+  </a>
   <a href="https://linkedin.com/in/danan-subramaniam-693ab0254" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Danan Subramaniam on LinkedIn" height="30" width="40" />
   </a>
