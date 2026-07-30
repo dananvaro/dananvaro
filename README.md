@@ -81,15 +81,15 @@ The project explored how conversational AI can create more realistic and accessi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dananvaro&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Danan's GitHub statistics" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=dananvaro&show_icons=true&theme=dark&hide_border=true" alt="Danan's GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dananvaro&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Danan's most used languages" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dananvaro&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Danan's most used languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dananvaro&theme=github-dark-blue&hide_border=true" alt="Danan's GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=dananvaro&theme=dark&hide_border=true" alt="Danan's GitHub streak" />
 
 </div>
 
